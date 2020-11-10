@@ -1,0 +1,2 @@
+# AfanOromoSpellingErrorCorrector
+Language is medium of communication. Communication can be in the form of sign, verbal or textual. Textual communication is exposed to different errors like spelling error, grammer error, punctuation error, case errors and the likes. Spelling error can create communication gab between author and reader. Therefore, this project is aimed to develop spelling error corrector which corrects both non-word error and real-word error in Afan Oromo text. The full source code will be released after final defence of this thesis.
